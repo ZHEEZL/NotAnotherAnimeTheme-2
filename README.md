@@ -3,13 +3,11 @@
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/FdZhbjY" alt="Get Support">
-        <img src="https://img.shields.io/discord/412794678791110664.svg?label=Support&logo=discord&style=flat-square&logoColor=%23ffffff&colorB=%237289DA" /></a>
-    <a href="https://github.com/puckzxz/NotAnotherAnimeTheme/commits/master" alt="Latest Commit">
-        <img src="https://img.shields.io/github/last-commit/puckzxz/NotAnotherAnimeTheme.svg?logo=GitHub&style=flat-square" /></a>
+    <a href="https://github.com/ZHEEZL/NotAnotherAnimeTheme-2/commits/master" alt="Latest Commit">
+        <img src="https://img.shields.io/github/last-commit/ZHEEZL/NotAnotherAnimeTheme-2?logo=GitHub&style=flat-square" /></a>
 </p>
 
-NotAnotherAnimeTheme is a highly customizable theme for Discord (with [BetterDiscord](https://betterdiscord.app) or [Powercord](https://powercord.dev/)) allowing for a revitalized and fresh take on the Discord UI. Every part of the theme is customizable, from the background image to the scroll bar colors. The user has full control over the default configuration. Preview pictures can be found [here.](https://github.com/puckzxz/NotAnotherAnimeTheme#images-of-variations)
+NotAnotherAnimeTheme 2 is a fork of highly customizable theme for Discord (with [BetterDiscord](https://betterdiscord.app) or [Powercord](https://powercord.dev/)) allowing for a revitalized and fresh take on the Discord UI. Every part of the theme is customizable, from the background image to the scroll bar colors. The user has full control over the default configuration. Preview pictures can be found [here.](https://github.com/ZHEEZL/NotAnotherAnimeTheme-2#images-of-variations)
 
 ## Installation
 ### For BetterDiscord
@@ -19,7 +17,7 @@ NotAnotherAnimeTheme is a highly customizable theme for Discord (with [BetterDis
       * [NotAnotherAnimeTheme](https://betterdiscord.app/theme/NotAnotherAnimeTheme)
 3. Place the theme file inside of the BetterDiscord `themes` folder.
 4. Restart the Discord client either by right clicking the tray icon and clicking "Quit Discord" or by pressing Ctrl+R inside the client.
-5. Go to User Settings in Discord > Themes > Select `NotAnotherAnimeTheme v3.2 by puckzxz#2080`
+5. Go to User Settings in Discord > Themes > Select `NotAnotherAnimeTheme 2 v1`
 
 ### For Powercord
 1. Ensure Powercord is installed on your computer. If not, install it [here](https://powercord.dev/installation).
@@ -44,28 +42,19 @@ NotAnotherAnimeTheme is a highly customizable theme for Discord (with [BetterDis
 * Feeling lazy? You can check out these theme generators that do all the hard work for you. [Wubzy's Site](https://wubzy.xyz/util/theme) and [LimeShark](https://limeshark.dev/editor/NotAnotherAnimeTheme)
 
 ### Q: *Where did the different theme files go for the amount of server columns?*
-* Since V3 you now change the amount of columns from inside the theme file, `--server-listing-width`
+* You now change the amount of columns from inside the theme file, `--server-listing-width`
 
 ## Contributing
 
-Have you made something cool with NotAnotherAnimeTheme and feel like sharing it? Fork me and add it to the community folder! If you're not git savvy you can either open an issue or just PM it to me on discord and I'll add your theme!
+NO
 
 ## Support
 
-A Discord server was made for issues, support, comments, recommendations, etc.
-
-[<img src="https://canary.discordapp.com/api/guilds/412794678791110664/widget.png?style=banner3">](https://discord.gg/FdZhbjY)
-
-Any issues can be expressed by:
-
-* [Joining the Discord server](https://discord.gg/FdZhbjY)
-* [Opening an issue on GitHub](https://github.com/puckzxz/NotAnotherAnimeTheme/issues)
+no
 
 ## Notes
 
-While the theme is Free and Open Source, it takes time to keep the theme up to date. If you enjoy the theme please consider supporting the Author to continue maintenance and development of it.
-
-* [Donate with PayPal](https://www.paypal.me/ChrisBock)
+While the theme is Free and Open Source, it takes time to keep the theme up to date.
 
 In the appearance settings make sure **Dark** is selected.
 
@@ -76,6 +65,7 @@ This theme is **NOT** minimal mode compatible.
 * Thanks to [V-X](https://github.com/ImVexed) for creating and hosting the CDN that NotAnotherAnimeTheme uses
 
 * Thanks to [Qu4k3](https://github.com/Qu4k3) for helping with countless issues
+* NOW UNAVALIABLE
 
 ## Images of variations
 
