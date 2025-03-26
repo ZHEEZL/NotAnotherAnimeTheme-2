@@ -7,6 +7,7 @@
         <img src="https://img.shields.io/github/last-commit/ZHEEZL/NotAnotherAnimeTheme-2?logo=GitHub&style=flat-square" /></a>
 </p>
 
+TEMPRORARY NOT WORKING BECAUSE NEW DISCORD UI
 NotAnotherAnimeTheme 2 is a fork of highly customizable theme for Discord (with [BetterDiscord](https://betterdiscord.app) or [Powercord](https://powercord.dev/)) allowing for a revitalized and fresh take on the Discord UI. Every part of the theme is customizable, from the background image to the scroll bar colors. The user has full control over the default configuration. Preview pictures can be found [here.](https://github.com/ZHEEZL/NotAnotherAnimeTheme-2#images-of-variations)
 
 ## Installation
